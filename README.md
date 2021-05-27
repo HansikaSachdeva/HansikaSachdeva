@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Hansika! 👋
 
 <!--
 **HansikaSachdeva/HansikaSachdeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=HansikaSachdeva&show_icons=true&theme=radical&include_all_commits=true">
 
 <br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaSachdeva&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
