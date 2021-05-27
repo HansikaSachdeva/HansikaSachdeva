@@ -1,4 +1,4 @@
-### Hi there, I'm Hansika! 👋
+## Hi there, I'm Hansika! 👋
 
 <!--
 **HansikaSachdeva/HansikaSachdeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Languages and Tools:  
+### Languages and Tools:  
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="30" src="https://image.pngaaa.com/764/1525764-middle.png"></code>
@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://mpng.subpng.com/20190129/qlx/kisspng-logo-mysql-organization-brand-database-mysql-development-5c507af1d46325.50972441154877822587.jpg"></code> <code><img height="30" src="https://www.dynamictechservices.com/wp-content/uploads/2018/10/Power-BI-Logo-Transparent.png"></code>
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector-1.svg"></code>   
 
-## My stats :bar_chart:
+### My stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=HansikaSachdeva&show_icons=true&theme=radical&include_all_commits=true">
 
 <br>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaSachdeva&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+### Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaSachdeva&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
