@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaSachdeva&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaSachdeva&hide=rebol&theme=radical)
