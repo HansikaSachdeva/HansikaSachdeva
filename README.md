@@ -23,7 +23,15 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://mpng.subpng.com/20190129/qlx/kisspng-logo-mysql-organization-brand-database-mysql-development-5c507af1d46325.50972441154877822587.jpg"></code> <code><img height="30" src="https://www.dynamictechservices.com/wp-content/uploads/2018/10/Power-BI-Logo-Transparent.png"></code>
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector-1.svg"></code>   
 
-<img src="https://github-readme-stats.vercel.app/api?username=HansikaSachdeva&show_icons=true&theme=radical&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=HansikaSachdeva&show_icons=true&theme=radical&include_all_commits=true">  
+
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/HansikaSachdeva/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaSachdeva&hide=rebol&&show=cpp&theme=radical)
