@@ -1,4 +1,5 @@
-## Hi there, I'm Hansika! 👋
+<h1 align="center"> Hi there, I am Hansika  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
 
 <!--
 **HansikaSachdeva/HansikaSachdeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,25 +15,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Languages and Tools:  
-
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-<img height="30" src="https://image.pngaaa.com/764/1525764-middle.png">
-<img height="30" src="https://mpng.subpng.com/20180218/khe/kisspng-rstudio-macos-clip-art-r-5a89b3da0b6081.4779308415189739140466.jpg">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png">
-<img height="30" src="https://mpng.subpng.com/20190129/qlx/kisspng-logo-mysql-organization-brand-database-mysql-development-5c507af1d46325.50972441154877822587.jpg">
-<img height="30" src="https://www.dynamictechservices.com/wp-content/uploads/2018/10/Power-BI-Logo-Transparent.png">
-<img height="30" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector-1.svg">   
-
-<img src="https://github-readme-stats.vercel.app/api?username=HansikaSachdeva&show_icons=true&theme=radical&include_all_commits=true">  
-
-
-<table>
+<table align="center">
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/HansikaSachdeva/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>  
 
+
+### Languages and Tools:  
+
+<div>
+  <img alt="python" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img alt="c" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img alt="c++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <span>&nbsp;</span>
+  <img alt="r" src="https://www.r-project.org/logo/Rlogo.png" width=45px/>
+  <span>&nbsp;</span>
+  <img alt="rstudio" src="https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-5/32/RStudio-icon.png"/>
+  <span>&nbsp;</span>
+  <img alt="sql" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
+  <span>&nbsp;</span>
+  <img alt="powerbi" src="https://img.icons8.com/dusk/64/000000/power-bi.png"/ width=45px>
+  
+</div> 
+<span>&nbsp;</span>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=HansikaSachdeva&show_icons=true&theme=radical&include_all_commits=true">  
+</div>
+
+<span>&nbsp;</span>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaSachdeva&hide=rebol&&show=cpp&theme=radical)
