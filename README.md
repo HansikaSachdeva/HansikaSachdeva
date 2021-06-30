@@ -46,4 +46,7 @@ Here are some ideas to get you started:
 
 <span>&nbsp;</span>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaSachdeva&hide=rebol&&show=cpp&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaSachdeva&hide=rebol&&show=cpp&theme=radical)  
+
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=HansikaSachdeva&show_icons=true&theme=radical'>
+
