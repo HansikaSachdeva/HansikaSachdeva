@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 </table>  
 
 
-### Languages and Tools:  
+<h1 align="center">Languages and Tools</h1>
 
+<div align ="center">
 <div>
   <img alt="python" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img alt="c" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
@@ -38,18 +39,27 @@ Here are some ideas to get you started:
   <span>&nbsp;</span>
   <img alt="powerbi" src="https://img.icons8.com/dusk/64/000000/power-bi.png"/ width=45px>
   <img alt ="illustrator" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
-  
+ </div> 
 </div> 
 
 <span>&nbsp;</span>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=HansikaSachdeva&show_icons=true&theme=radical&include_all_commits=true">  
+<div align = "center">
+  <img width=425px src="https://github-readme-stats.vercel.app/api?username=HansikaSachdeva&show_icons=true&theme=radical&include_all_commits=true">
+  <img width=425px src='https://github-readme-streak-stats.herokuapp.com/?user=HansikaSachdeva&show_icons=true&theme=radical'>
 </div>
 
 <span>&nbsp;</span>
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaSachdeva&hide=rebol&&show=cpp&theme=radical)  
--->
 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=HansikaSachdeva&show_icons=true&theme=radical'>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/hansika-sachdeva-26066918b/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="mailto:mail.hansika.hs1@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://www.instagram.com/hansikasachdeva/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
+  </a><span>&nbsp;</span><a href="https://github.com/HansikaSachdeva">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+</div>
