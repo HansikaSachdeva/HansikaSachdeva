@@ -43,10 +43,9 @@ Here are some ideas to get you started:
 </div>
 
 <span>&nbsp;</span>
-<div align ="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=HansikaSachdeva&theme=radical)](https://github.com/HansikaSachdeva/github-profile-trophy)
-</div>
-
+<p align="centre"> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HansikaSachdeva&theme=radical&no-frame=true)](https://github.com/HansikaSachdeva/github-profile-trophy)
+</p>
 
 <span>&nbsp;</span>
 <div align = "center">
