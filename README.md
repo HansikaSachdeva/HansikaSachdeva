@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <span>&nbsp;</span>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HansikaSachdeva&theme=radical&no-frame=true)](https://github.com/HansikaSachdeva/github-profile-trophy)
+<div align ="center"> <a href="https://github.com/HansikaSachdeva/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HansikaSachdeva&theme=radical" alt="HansikaSachdeva" /></a> </div>
 
 
 <span>&nbsp;</span>
