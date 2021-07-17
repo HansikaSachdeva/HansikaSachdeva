@@ -1,4 +1,6 @@
 <h1 align="center"> Hi there, I am Hansika  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+
 <!--
 **HansikaSachdeva/HansikaSachdeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,8 +41,6 @@ Here are some ideas to get you started:
   <img alt ="illustrator" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
  </div> 
 </div> 
-
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HansikaSachdeva" alt="HansikaSachdeva&theme=radical" /></a> </p>
 
 <span>&nbsp;</span>
 <div align = "center">
