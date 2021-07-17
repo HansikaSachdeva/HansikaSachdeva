@@ -39,8 +39,14 @@ Here are some ideas to get you started:
   <span>&nbsp;</span>
   <img alt="powerbi" src="https://img.icons8.com/dusk/64/000000/power-bi.png"/ width=45px>
   <img alt ="illustrator" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
- </div> 
-</div> 
+ </div>  
+</div>
+
+<span>&nbsp;</span>
+<div align ="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=HansikaSachdeva&theme=radical)](https://github.com/HansikaSachdeva/github-profile-trophy)
+</div>
+
 
 <span>&nbsp;</span>
 <div align = "center">
